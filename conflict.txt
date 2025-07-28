@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-"Conflicting change from master" 
-=======
-"Conflicting change from develop" 
->>>>>>> develop
